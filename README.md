@@ -1,4 +1,4 @@
-# Data-Analysis-and-Business-Impact
+# Analytics and Impact in E-Commerce, Hospitality, and Sport
 
 ## Index
 1. [Airbnb Data Analysis](#airbnb-data-analysis)
